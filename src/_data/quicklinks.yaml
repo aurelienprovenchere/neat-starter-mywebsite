@@ -1,7 +1,7 @@
 links:
-  - title: Alpine.js
-    url: https://github.com/alpinejs/alpine
-    desc: A minimal framework for composing JavaScript behavior in your markup.
-  - title: Tailwind CSS
-    url: https://tailwindcss.com/
-    desc: A utility-first CSS framework for rapidly building custom designs.
+  - title: My blog
+    url: /blog
+    desc: Everything I share
+  - title: My website
+    url: https://aurelienprovenchere.netlify.com/
+    desc: My personal website
