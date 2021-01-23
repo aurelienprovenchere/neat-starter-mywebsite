@@ -1,5 +1,5 @@
 ---
-title: Some good extensions I discovered
+title: 🚀 Some good extensions I discovered
 description: available on Chrome & Firefox
 author: Aurélien Provenchère
 date: 2021-01-23T20:42:19.886Z
