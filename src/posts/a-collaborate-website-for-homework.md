@@ -1,5 +1,5 @@
 ---
-title: A collaborate website for homework
+title: 📚 A collaborate website for homework
 description: great for students !
 author: Aurélien P.
 date: 2021-01-23T21:01:07.797Z
