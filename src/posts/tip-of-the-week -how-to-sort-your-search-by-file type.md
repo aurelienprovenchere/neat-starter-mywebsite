@@ -6,9 +6,7 @@ date: 2021-04-16T17:53:27.061Z
 tags:
   - Tags
 ---
-![](/static/img/filetype.png)
-
-
+![](/static/img/filetype.png "example of looking for pizza menus in pdf")
 
 Sometimes we are looking for specific documents on the web: a pdf, an excel, a word etc.
 
@@ -25,10 +23,6 @@ If you want to find : \
 word document => doc\
 excel => xlsx
 
-
-
 **P.S**: internal company documents in pdf that are usually not accessible to the general public can be found just by using the filter sometimes ...😅😮 
-
-
 
 Feel free to share 🙏
