@@ -2,7 +2,7 @@
 title: 🖊Comparer l'évolution des CGU des sites web
 description: Pas mal pour se faire une idée rapide des changements et leurs impacts
 author: Aurélien
-date: 2021-02-15T18:02:36.895Z
+date: 2021-02-05T18:02:36.895Z
 tags:
   - Tags
 ---
