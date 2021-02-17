@@ -1,6 +1,6 @@
 ---
 title: ☁️ Cozy Cloud !!!
-description: finnaly an alternative to Google Drive & Office ...
+description: finally an alternative to Google Drive & Office ...
 author: Aurélien
 date: 2021-05-15T18:47:30.780Z
 tags:
