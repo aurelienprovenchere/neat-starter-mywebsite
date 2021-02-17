@@ -15,3 +15,10 @@ You should really try ! I use this app since 1 year now...  👉 <https://refind
 ![](/static/img/refind.png)
 
 Check it out : <https://refind.com/>
+
+
+
+* We are submerged in a flood of information
+* Lots of good resources on the web but no time to read everything
+* Every day Refind gives you the best items not to be missed.
+* We can sort according to the themes we prefer, our preferences, the people we want to follow in priority.
