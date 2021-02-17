@@ -6,7 +6,7 @@ date: 2021-05-04T18:40:58.050Z
 tags:
   - Tags
 ---
-Todya, I want to present you [Primer ](https://www.yourprimer.com/)app by Google.
+Today, I want to present you [Primer ](https://www.yourprimer.com/)app by Google.
 
 It's an app to learn marketing, sales etc
 
@@ -16,8 +16,6 @@ To sum up :
 * Made by google
 * Useful for learning business, digital marketing, communication, etc.
 * Very playful
-
-
 
 ![](/static/img/primer-app.png)
 
