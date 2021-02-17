@@ -8,7 +8,8 @@ tags:
 ---
 🎯 Goal of Refind: Receive every day the best articles on the web on a topic or on subjects that interest you.
 
-\
+
+
 To sum up : 
 
 * We are submerged in a flood of information
@@ -20,7 +21,11 @@ To sum up :
 
 I love this app because it really means that you no longer have to look for and only receive your daily dose of articles.
 
+
+
 You should really try ! I use this app since 1 year now...  👉 <https://refind.com/>
+
+
 
 ![](/static/img/refind.png)
 
