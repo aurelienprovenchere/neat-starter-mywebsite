@@ -2,7 +2,7 @@
 title: ⛔ Say NO to cookies with Ninja Cookie
 description: A chrome & Firefox extension
 author: Aurélien
-date: 2021-02-01T18:14:57.265Z
+date: 2021-02-25T18:14:57.265Z
 tags:
   - Tags
 ---
