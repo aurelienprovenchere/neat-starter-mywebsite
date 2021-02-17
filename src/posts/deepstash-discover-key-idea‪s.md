@@ -10,9 +10,13 @@ A super app on iOs & Android (& recently a beta website) to discover ideas that 
 
 With a new format, you can learn the key ideas in various topics.
 
-
-
 Jus try 😉👉 <https://deepstash.com/>
+
+
+
+* A simple way to learn
+* Getting to the point: summary of thoughts
+* Different categories
 
 
 
