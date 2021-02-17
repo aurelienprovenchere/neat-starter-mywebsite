@@ -1,5 +1,5 @@
 ---
-title: "Tip of the week : How to sort your search by file type"
+title: "💡 Tip of the week : How to sort your search by file type"
 description: A good shortcut to know !
 author: Aurélien
 date: 2021-04-16T17:53:27.061Z
