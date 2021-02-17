@@ -2,7 +2,7 @@
 title: 🎯 Finding ads for your newsletter
 description: "a great tool for business ! "
 author: Aurélien
-date: 2021-02-10T18:08:43.649Z
+date: 2021-02-15T18:08:43.649Z
 tags:
   - Tags
 ---
