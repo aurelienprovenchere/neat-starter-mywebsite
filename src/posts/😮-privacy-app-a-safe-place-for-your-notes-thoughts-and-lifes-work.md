@@ -10,10 +10,6 @@ Since 1 year, I use [Standard Notes](https://standardnotes.org/) for my personal
 
 I love this app (on iOs, Android & web app). Super easy to use & the best privacy app for taking notes.
 
-
-
-
-
-![](/static/img/standard-notes.png)
+![](/static/img/standard-notes-ios.png)
 
 Check it out : <https://standardnotes.org/>
