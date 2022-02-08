@@ -2,7 +2,7 @@
 title: "🚀 App of the week : Refind"
 description: the best of the web
 author: Aurélien
-date: 2021-04-23T17:58:39.732Z
+date: 2022-01-12T17:58:39.732Z
 tags:
   - Tags
 ---
