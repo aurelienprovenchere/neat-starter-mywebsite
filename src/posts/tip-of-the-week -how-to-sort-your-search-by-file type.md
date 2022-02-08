@@ -2,7 +2,7 @@
 title: "💡 Tip of the week : How to sort your search by file type"
 description: A good shortcut to know !
 author: Aurélien
-date: 2021-04-16T17:53:27.061Z
+date: 2021-10-16T17:53:27.061Z
 tags:
   - Tags
 ---
